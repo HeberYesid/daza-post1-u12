@@ -43,6 +43,8 @@
     </dependencies>
 
     <build>
+        <finalName>productos-web</finalName>
+
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>

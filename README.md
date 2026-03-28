@@ -16,12 +16,16 @@ CRUD de productos con Spring Boot MVC + Thymeleaf y almacenamiento en memoria.
 - JDK 17+
 - Maven 3.8+
 
-## EjecuciÃƒÂ³n
+## Ejecución
 
 1. mvn spring-boot:run
 2. Abrir <http://localhost:8080/productos>
 
 ## Capturas
 
-Guardar evidencias en capturas/.
+![changes](capturas/changes.png)
+![delete](capturas/delete.png)
+![edit](capturas/edit.png)
+![home](capturas/home.png)
+![new](capturas/new.png)
 
