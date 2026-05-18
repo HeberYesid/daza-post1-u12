@@ -51,3 +51,5 @@ CRUD de productos con Spring Boot MVC + Thymeleaf y almacenamiento en memoria.
    - `DB_PASS=${{Postgres.PGPASSWORD}}`
 5. Ve a **Settings** -> **Networking** -> **Generate Domain** para obtener la URL pública.
 6. Verifica el despliegue visitando `https://[TU-DOMINIO].up.railway.app/actuator/health`.
+
+railway:https://daza-post1-u12-production.up.railway.app/productos
